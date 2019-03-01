@@ -1,18 +1,17 @@
-1. Boolean l� ki?u gi� tr? l� d�ng (True) v� sai (False)
+1. Boolean là kiểu giá trị là dúng (True) và sai (False)
 E.g.
 1==2
 1<2
 1!=2
 
 
-2.Flow chart l� lo?i bi?u d? m� t? tr?c quan m?t thu?t to�n, quy tr�nh l�m vi?c, �
-L� m?t bi?u d? cho th?y c�c giai do?n c?a m?t qu� tr�nh ho?c ho?t d?ng t? d?u d?n
-cu?i b?ng c�ch s? d?ng c�c h�nh d?ng kh�c nhau du?c k?t n?i b?i c�c du?ng.
+2.Flow chart là loại biểu đồ mô tả trực quan một thuật toán, quy trình làm việc
+dưới dạng các loại hình khác nhau theo thứ tự được biểu diễn bởi các đường
 
 
-3.L?nh if l?ng nhau trong Python l� vi?t l?nh if...elif...else
-trong m?t kh?i l?nh if...elif...else kh�c, kh�ng gi?i h?n s? l?nh
-du?c l?ng v�o l?nh kh�c.
+3.Lệnh if lồng nhau trong Python là viết lệnh if...elif...else
+trong trong một khối lệnh if...elif...else khác,
+Không giới hạn số lệnh được lồng vào lệnh khác
 
 E.g.
 from random import randint
