@@ -1,0 +1,25 @@
+1. Boolean là kiểu giá trị là dúng (True) và sai (False)
+E.g.
+1==2
+1<2
+1!=2
+
+
+2.Flow chart là loại biểu đồ mô tả trực quan một thuật toán, quy trình làm việc
+dưới dạng các loại hình khác nhau theo thứ tự được biểu diễn bởi các đường
+
+
+3.Lệnh if lồng nhau trong Python là viết lệnh if...elif...else
+trong trong một khối lệnh if...elif...else khác,
+Không giới hạn số lệnh được lồng vào lệnh khác
+
+E.g.
+from random import randint
+x = randint(0,100)
+if x < 36:
+    print ("sunny")
+elif 36 < x < 71:
+    print("rainy")
+else :
+    print ("cloudy")
+print(x)
