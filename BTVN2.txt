@@ -1,0 +1,26 @@
+1. Boolean là ki?u giá tr? là dúng (True) và sai (False)
+E.g.
+1==2
+1<2
+1!=2
+
+
+2.Flow chart là lo?i bi?u d? mô t? tr?c quan m?t thu?t toán, quy trình làm vi?c, …
+Là m?t bi?u d? cho th?y các giai do?n c?a m?t quá trình ho?c ho?t d?ng t? d?u d?n
+cu?i b?ng cách s? d?ng các hình d?ng khác nhau du?c k?t n?i b?i các du?ng.
+
+
+3.L?nh if l?ng nhau trong Python là vi?t l?nh if...elif...else
+trong m?t kh?i l?nh if...elif...else khác, không gi?i h?n s? l?nh
+du?c l?ng vào l?nh khác.
+
+E.g.
+from random import randint
+x = randint(0,100)
+if x < 36:
+    print ("sunny")
+elif 36 < x < 71:
+    print("rainy")
+else :
+    print ("cloudy")
+print(x)
